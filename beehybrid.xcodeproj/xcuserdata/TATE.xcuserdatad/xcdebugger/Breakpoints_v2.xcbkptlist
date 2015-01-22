@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "beehybrid/ViewController.swift"
+            timestampString = "443612899.784994"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "beehybrid.ViewController.webView.getter : Swift.Optional&lt;ObjectiveC.WKWebView&gt;"
+                  moduleName = "beehybrid"
+                  urlString = "file:///Users/TATE/Desktop/beehybrid/beehybrid/ViewController.swift"
+                  timestampString = "443614318.11459"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "beehybrid.ViewController.webView.setter : Swift.Optional&lt;ObjectiveC.WKWebView&gt;"
+                  moduleName = "beehybrid"
+                  urlString = "file:///Users/TATE/Desktop/beehybrid/beehybrid/ViewController.swift"
+                  timestampString = "443614318.114954"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "beehybrid.ViewController.webView.materializeForSet : Swift.Optional&lt;ObjectiveC.WKWebView&gt;"
+                  moduleName = "beehybrid"
+                  urlString = "file:///Users/TATE/Desktop/beehybrid/beehybrid/ViewController.swift"
+                  timestampString = "443614318.115143"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "beehybrid.ViewController.init (beehybrid.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; beehybrid.ViewController"
+                  moduleName = "beehybrid"
+                  urlString = "file:///Users/TATE/Desktop/beehybrid/beehybrid/ViewController.swift"
+                  timestampString = "443614318.115396"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "75">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "beehybrid.ViewController.init (beehybrid.ViewController.Type)() -&gt; beehybrid.ViewController"
+                  moduleName = "beehybrid"
+                  urlString = "file:///Users/TATE/Desktop/beehybrid/beehybrid/ViewController.swift"
+                  timestampString = "443614318.115578"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "beehybrid.ViewController.init (beehybrid.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; beehybrid.ViewController"
+                  moduleName = "beehybrid"
+                  urlString = "file:///Users/TATE/Desktop/beehybrid/beehybrid/ViewController.swift"
+                  timestampString = "443614318.115765"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "beehybrid/ViewController.swift"
+            timestampString = "443614385.044251"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "beehybrid.ViewController.webView.setter : Swift.Optional&lt;ObjectiveC.WKWebView&gt;"
+                  moduleName = "beehybrid"
+                  urlString = "file:///Users/TATE/Desktop/beehybrid/beehybrid/ViewController.swift"
+                  timestampString = "443616117.620047"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "beehybrid.ViewController.webView.materializeForSet : Swift.Optional&lt;ObjectiveC.WKWebView&gt;"
+                  moduleName = "beehybrid"
+                  urlString = "file:///Users/TATE/Desktop/beehybrid/beehybrid/ViewController.swift"
+                  timestampString = "443616117.620228"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "beehybrid.ViewController.init (beehybrid.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; beehybrid.ViewController"
+                  moduleName = "beehybrid"
+                  urlString = "file:///Users/TATE/Desktop/beehybrid/beehybrid/ViewController.swift"
+                  timestampString = "443616117.620402"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "75">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "beehybrid.ViewController.init (beehybrid.ViewController.Type)() -&gt; beehybrid.ViewController"
+                  moduleName = "beehybrid"
+                  urlString = "file:///Users/TATE/Desktop/beehybrid/beehybrid/ViewController.swift"
+                  timestampString = "443616117.620575"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "beehybrid.ViewController.init (beehybrid.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; beehybrid.ViewController"
+                  moduleName = "beehybrid"
+                  urlString = "file:///Users/TATE/Desktop/beehybrid/beehybrid/ViewController.swift"
+                  timestampString = "443616117.620736"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
